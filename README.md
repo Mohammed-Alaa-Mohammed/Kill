@@ -39,10 +39,10 @@
 ## 🚀 Installation
 
 ```shell
-git clone https://github.com/Mohammed-Alaa-Mohammed/kill-kit.git
+https://github.com/Mohammed-Alaa-Mohammed/Kill.git
 ```
 ```python
-cd kill-kit
+cd Kill
 ```
 ```bash
 pip install -r requirements.txt
