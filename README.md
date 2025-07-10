@@ -1,24 +1,24 @@
 ***
-## Tool Name ## :  K I L L - **K I T**
+### Tool Name :  K I L L - *K I T*
 
-Des : ᴛʜɪꜱ ᴛᴏᴏʟ ᴡɪʟʟ ʙᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀꜱ ᴀ ᴅᴇꜰᴀᴜʟᴛ ᴏɴ ᴋᴀʟɪ ʟɪɴᴜx, ᴀꜱ ɪᴛ ɪꜱ ɪᴛꜱ ꜱᴇᴄᴏɴᴅ ʀᴇʟᴇᴀꜱᴇ.
+### Des : *ᴛʜɪꜱ ᴛᴏᴏʟ ᴡɪʟʟ ʙᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀꜱ ᴀ ᴅᴇꜰᴀᴜʟᴛ ᴏɴ ᴋᴀʟɪ ʟɪɴᴜx, ᴀꜱ ɪᴛ ɪꜱ ɪᴛꜱ ꜱᴇᴄᴏɴᴅ ʀᴇʟᴇᴀꜱᴇ.*
 
-Version : **V.2**
+### Version : **V.2**
 
-Developer : ```Muhammed Alaa```
+### Developer : ```Muhammed Alaa```
 ***
 
 
 
--- Run in Kali Linux :
+### -- Run in Kali Linux :
   ```python
   pip install Kill___Kit.py
   ```
--- Run in Kali Linux Not Rooted
+### -- Run in Kali Linux Not Rooted
     ```python
     sudo pip install Kill___Kit.py
     ```
-## Another To Run
+#### Another To Run
 
   ```python
   su pip install Kill___Kit.py
