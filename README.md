@@ -1,5 +1,5 @@
 ***
-Tool Name :<p style="coler:red"> K I L L - **K I T**</p>
+## Tool Name ## :  K I L L - **K I T**
 
 Des : ᴛʜɪꜱ ᴛᴏᴏʟ ᴡɪʟʟ ʙᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀꜱ ᴀ ᴅᴇꜰᴀᴜʟᴛ ᴏɴ ᴋᴀʟɪ ʟɪɴᴜx, ᴀꜱ ɪᴛ ɪꜱ ɪᴛꜱ ꜱᴇᴄᴏɴᴅ ʀᴇʟᴇᴀꜱᴇ.
 
