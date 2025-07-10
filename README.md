@@ -13,8 +13,8 @@
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/R.211035091a052252f50c488b0bc6a523?rik=N7pOb2e7QhSUmw&pid=ImgRaw&r=0" alt="Kali Terminal" width="300"/>
-<img width="300" height="300" alt="لقطة شاشة 2025-07-10 144030" src="https://github.com/user-attachments/assets/d686fedf-61b6-470d-89c4-d2a37135db2f" />
+  <img src="https://th.bing.com/th/id/R.211035091a052252f50c488b0bc6a523?rik=N7pOb2e7QhSUmw&pid=ImgRaw&r=0" alt="Kali Terminal" width="500" height='500'/>
+<img width="300" height="500" alt="لقطة شاشة 2025-07-10 144030" src="https://github.com/user-attachments/assets/d686fedf-61b6-470d-89c4-d2a37135db2f" />
 
 </p>
 
