@@ -13,7 +13,7 @@
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Kali_Linux_Windows_Subsystem.png" alt="Kali Terminal" width="200"/>
+  <img src="(https://th.bing.com/th/id/R.211035091a052252f50c488b0bc6a523?rik=N7pOb2e7QhSUmw&pid=ImgRaw&r=0)" alt="Kali Terminal" width="200"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Kali_Linux_2021.1_Desktop.png" alt="Kali Linux Desktop" width="200"/>
 </p>
 
