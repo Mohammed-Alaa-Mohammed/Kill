@@ -36,10 +36,10 @@
 
 ## 🚀 Installation
 
-```bash
+```shell
 git clone https://github.com/Mohammed-Alaa-Mohammed/kill-kit.git
 ```
-```bash
+```python
 cd kill-kit
 ```
 ```bash
@@ -61,14 +61,14 @@ sudo python3 Kill___Kit.py
 
 ### -- Run in Kali Linux :
 ```python
-  pip install Kill___Kit.py
+pip install Kill___Kit.py
   ```
 ### - Run in Kali Linux Not Rooted
 ```python
-    sudo pip install Kill___Kit.py
+sudo pip install Kill___Kit.py
     ```
 ### Another To Run
 ```python
-  su pip install Kill___Kit.py
+su pip install Kill___Kit.py
   ```
   
