@@ -39,10 +39,10 @@
 ## 🚀 Installation
 ***
 ### ```Quick and easy installation on Kali Linux```
-```cmd
+```py
 sudo dpkg -i killkit_1.0.deb # For Install Tool
 ```
-```bash
+```shell
 Kill___Kit # For Run Tool
 ```
 ***
