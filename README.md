@@ -38,11 +38,11 @@
 
 ## 🚀 Installation
 
-### "Quick and easy installation on Kali Linux"
-1 - ```bash
+### ```Quick and easy installation on Kali Linux```
+- ```bash
 sudo dpkg -i killkit_1.0.deb
 ```
- 2 - ```bash
+ - ```bash
 Kill___Kit
 ```
 ```shell
