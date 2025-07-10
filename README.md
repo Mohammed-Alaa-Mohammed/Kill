@@ -1,7 +1,7 @@
 # 🐍 Kill Kit 2025 – Advanced Kali Linux Tool
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Logo" width="76"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Logo" width="150" height="150"/>
 </p>
 
 > **Kill Kit** is a powerful Python-based toolkit designed for penetration testers and security researchers using **Kali Linux**.  
@@ -52,7 +52,7 @@ sudo python3 Kill___Kit.py
 ```
 ### Download
 ```text
-
+https://github.com/Mohammed-Alaa-Mohammed/Kill/archive/refs/heads/main.zip
 ```
 ***
 ### Tool Name :  K I L L - *K I T*
