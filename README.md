@@ -66,9 +66,9 @@ pip install Kill___Kit.py
 ### - Run in Kali Linux Not Rooted
 ```python
 sudo pip install Kill___Kit.py
-    ```
+```
 ### Another To Run
 ```python
 su pip install Kill___Kit.py
-  ```
+```
   
