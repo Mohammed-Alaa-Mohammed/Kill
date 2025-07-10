@@ -53,6 +53,9 @@ https://github.com/Mohammed-Alaa-Mohammed/Kill.git
 cd Kill
 ```
 ```bash
+chmod +x *
+```
+```bash
 pip install -r requirements.txt
 ```
 ```bash
