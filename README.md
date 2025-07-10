@@ -38,6 +38,13 @@
 
 ## 🚀 Installation
 
+### ***Quick and easy installation on Kali Linux
+- 1 - ```bash
+sudo dpkg -i killkit_1.0.deb
+```
+ - 2 - ```bash
+Kill___Kit
+```
 ```shell
 https://github.com/Mohammed-Alaa-Mohammed/Kill.git
 ```
