@@ -50,7 +50,10 @@ pip install -r requirements.txt
 ```bash
 sudo python3 Kill___Kit.py
 ```
+### Download
+```text
 
+```
 ***
 ### Tool Name :  K I L L - *K I T*
 
