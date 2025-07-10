@@ -1,56 +1,46 @@
-# 🐉 Kill Kit 2025-2026 – Kali Linux Tool
-
-![Kali Logo](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg)
-
----
-
-> **Kill Kit** is a powerful penetration testing suite built on the capabilities of **Kali Linux**.  
-> It provides a modular set of tools for vulnerability scanning, exploitation, and automation – tailored for professionals and ethical hackers.
-
----
-
-## 📸 Tool Gallery
+# 🐍 Kill Kit 2025 – Advanced Kali Linux Tool
 
 <p align="center">
-  <img src="https://www.kali.org/images/homepage-hero-tools.png" alt="Kali Tools" width="300"/>
-  <img src="https://www.kali.org/images/kali-screenshot-dark.png" alt="Kali Terminal" width="300"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kali_Linux_logo_2014.svg/512px-Kali_Linux_logo_2014.svg.png" alt="Kali Banner" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Logo" width="76"/>
+</p>
+
+> **Kill Kit** is a powerful Python-based toolkit designed for penetration testers and security researchers using **Kali Linux**.  
+> With modular components and built-in automation, it empowers professionals to scan, exploit, and analyze networks efficiently.
+
+---
+
+
+## 🖥️ Screenshots
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Kali_Linux_Windows_Subsystem.png" alt="Kali Terminal" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Kali_Linux_2021.1_Desktop.png" alt="Kali Linux Desktop" width="200"/>
 </p>
 
 ---
 
-## ✨ Key Features
+## 🧾 Tool Info
 
-- 🔍 **Network Scanning & Vulnerability Detection**
-- 🛡️ **SQL Injection / XSS Attack Simulation**
-- 💻 **Command-Line Driven Interface**
-- 🧩 **Modular & Extensible Structure**
-- ⚙️ Integration with **Nmap**, **Hydra**, **Metasploit**, and more
-
----
-
-## 🔧 Kill Kit Tool Fields
-
-| Field              | Description                                  |
-|-------------------|----------------------------------------------|
-| Tool Name          | `Kill Kit 2025`                              |
-| Developer          | `Muhammed Alaa`                              |
-| Version            | `v2.0`                                       |
-| Supported OS       | Kali Linux / Debian-based                    |
-| Last Updated       | 2025 – 2026                                  |
-| License            | MIT                                          |
-| GitHub Repo        | [Your Repo URL Here](#)                      |
+| Field            | Details                      |
+|------------------|-------------------------------|
+| Tool Name        | **Kill Kit**                 |
+| Version          | `v2.5`                        |
+| Language         | `Python 3.x`                  |
+| Platform         | Kali Linux / Debian-based     |
+| Dev Years        | 2025 – 2026                   |
+| Developer        | **Muhammed Alaa**             |
+| License          | MIT                           |
+| Status           | Under active development 🛠️  |
 
 ---
 
-## 🚀 Getting Started
-
-To run **Kill Kit**, clone the repository and execute the main script:
+## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/kill-kit
+git clone https://github.com/Mohammed-Alaa-Mohammed/kill-kit.git
 cd kill-kit
-sudo bash start.sh
+pip install -r requirements.txt
+sudo python3 Kill___Kit.py
 
 
 ***
