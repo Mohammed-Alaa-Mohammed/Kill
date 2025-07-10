@@ -58,12 +58,11 @@ sudo python3 Kill___Kit.py
   pip install Kill___Kit.py
   ```
 ### -- Run in Kali Linux Not Rooted
-  ```python
+```python
     sudo pip install Kill___Kit.py
     ```
 ### Another To Run
-
-  ```python
+```python
   su pip install Kill___Kit.py
   ```
   
