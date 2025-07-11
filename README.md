@@ -58,8 +58,13 @@ chmod +x *
 ```bash
 pip install -r requirements.txt
 ```
+- ## Kali Linux Use This
 ```bash
 sudo python3 Kill___Kit.py
+```
+- ## Termux Use This
+```bash
+python3 Kill___Kit.py
 ```
 ### Download
 ```
